@@ -9,7 +9,7 @@ I will implement the code in python as it is a good chance to learn this program
 | -----: | ----- |
 | 1      | :star: :star: |
 | 2      | :star: :star: |
-| 3      |  |
+| 3      | :star: :star: |
 | 4      |  |
 | 5      |  |
 | 6      |  |
